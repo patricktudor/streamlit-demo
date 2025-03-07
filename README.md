@@ -13,9 +13,9 @@ Description of the app ...
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/streamlit/app-starter-kit?quickstart=1)
 
-## Section Heading
+## Hosting Tutorial
 
-This is filler text, please replace this with text for this section.
+A demonstration of how to host a streamlit app can be found on this YouTube [video](https://www.youtube.com/watch?v=d7fnzDQ5qM8).
 
 ## Further Reading
 
